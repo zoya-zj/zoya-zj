@@ -1,5 +1,5 @@
 - Hi, I’m Zoya Zarei-Joorshari.
-- I’m a 5th year computing student @ Queen's University.
+- 5th year computing student @ Queen's University.
 - Former Software Developer intern @ Bell Canada
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/zoya-zarei-joorshari-62bab3238/)
 
